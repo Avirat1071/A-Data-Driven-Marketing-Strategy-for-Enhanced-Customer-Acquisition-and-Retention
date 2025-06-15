@@ -3,12 +3,12 @@ Led data analysis for an e-commerce company to optimize marketing strategies and
 
 
 ## Steps Follwed:-
-• Collected and cleaned a dataset of 52K+ entries across 36 features (customers, sales, marketing). 
-• Conducted EDA to uncover customer trends (e.g., 62% female customer base, peak sales months). 
-• Applied RFM and K-Means clustering to identify high-value customer segments (~45%). 
-• Built a model predicting CLTV with 96% accuracy. 
-• Used Apriori Algorithm to discover key product combinations. 
-• Business insight: Strategic 10% discounts raised sales by 15%, while 20% discounts lowered revenue.
+- *Collected and cleaned a dataset of 52K+ entries across 36 features (customers, sales, marketing).* 
+- *Conducted EDA to uncover customer trends (e.g., 62% female customer base, peak sales months). *
+- *Applied RFM and K-Means clustering to identify high-value customer segments (~45%). *
+- *Built a model predicting CLTV with 96% accuracy. *
+- *Used Apriori Algorithm to discover key product combinations. *
+- *Business insight: Strategic 10% discounts raised sales by 15%, while 20% discounts lowered revenue.*
 
 
 ## E-commerce Dashboard  
