@@ -2,6 +2,14 @@
 Led data analysis for an e-commerce company to optimize marketing strategies and customer retention. Calculated invoice value at transaction level, performed detailed exploratory analysis on revenue, discounts, and customer behavior. Segmenting customers using RFM and K-Means clustering, I identified high-value segments for targeted campaigns. Built predictive models for Customer Lifetime Value (LTV) and Next Purchase Day, enabling better customer engagement. Developed an interactive dashboard to track key metrics like revenue, marketing spend, and customer acquisition. Conducted cohort analysis to measure customer retention and applied market basket analysis for cross-sell opportunities. Presented actionable insights to stakeholders, improving marketing ROI and sales strategies.
 
 
+## Steps Follwed:-
+• Collected and cleaned a dataset of 52K+ entries across 36 features (customers, sales, marketing). 
+• Conducted EDA to uncover customer trends (e.g., 62% female customer base, peak sales months). 
+• Applied RFM and K-Means clustering to identify high-value customer segments (~45%). 
+• Built a model predicting CLTV with 96% accuracy. 
+• Used Apriori Algorithm to discover key product combinations. 
+• Business insight: Strategic 10% discounts raised sales by 15%, while 20% discounts lowered revenue.
+
 
 ## E-commerce Dashboard  
 
